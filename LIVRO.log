@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  9 APR 2019 18:00
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  18 APR 2019 14:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2271,12 +2271,12 @@ Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 
  (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)) ) 
 Here is how much of TeX's memory you used:
- 26473 strings out of 492998
- 487216 string characters out of 6139960
+ 26478 strings out of 492998
+ 487285 string characters out of 6139960
  719162 words of memory out of 5000000
- 29947 multiletter control sequences out of 15000+600000
+ 29952 multiletter control sequences out of 15000+600000
  542385 words of font info for 116 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
  48i,12n,86p,10384b,528s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (526 pages, 9890288 bytes).
+Output written on LIVRO.xdv (526 pages, 9894668 bytes).
