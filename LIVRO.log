@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  18 APR 2019 14:16
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  21 MAY 2019 13:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1798,19 +1798,15 @@ Overfull \vbox (5.5541pt too high) has occurred while \output is active []
 
 
 [88]
-Overfull \vbox (14.99411pt too high) has occurred while \output is active []
+Overfull \vbox (13.95598pt too high) has occurred while \output is active []
 
 
 [89]
-Overfull \vbox (11.00803pt too high) has occurred while \output is active []
+Overfull \vbox (12.15598pt too high) has occurred while \output is active []
 
 
-[90]
-Overfull \vbox (7.60797pt too high) has occurred while \output is active []
-
-
-[91] [92]
-Overfull \vbox (14.1103pt too high) has occurred while \output is active []
+[90] [91] [92]
+Overfull \vbox (15.95203pt too high) has occurred while \output is active []
 
 
 [93] [94] [95]
@@ -1818,79 +1814,78 @@ Overfull \vbox (11.2829pt too high) has occurred while \output is active []
 
 
 [96]
-Overfull \vbox (7.15598pt too high) has occurred while \output is active []
+Overfull \vbox (7.10797pt too high) has occurred while \output is active []
 
 
-[97] [98]
-Overfull \hbox (1.56273pt too wide) in paragraph at lines 2635--2638
+[97]
+Overfull \vbox (7.60797pt too high) has occurred while \output is active []
+
+
+[98]
+Overfull \hbox (1.56273pt too wide) in paragraph at lines 2633--2636
 \TU/LinuxLibertineO(0)/m/n/12 ças de Molière. Em especial, como se fossem perso
 nagens-
  []
 
-[99] [100] [101] [102] [103] [104] [105] [106] [107] [108]
+[99] [100] [101] [102] [103] [104] [105] [106] [107]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 2905.
+(Font)              <10.95> on input line 2903.
 
-Overfull \vbox (12.30402pt too high) has occurred while \output is active []
-
-
-[109]
-Overfull \vbox (14.15201pt too high) has occurred while \output is active []
+Overfull \vbox (10.5541pt too high) has occurred while \output is active []
 
 
-[110]
-Overfull \vbox (18.65598pt too high) has occurred while \output is active []
+[108] [109]
+Overfull \vbox (8.904pt too high) has occurred while \output is active []
+
+ [110]
+Overfull \vbox (19.65598pt too high) has occurred while \output is active []
 
 
 [111]
-Overfull \vbox (8.0103pt too high) has occurred while \output is active []
+Overfull \vbox (11.604pt too high) has occurred while \output is active []
 
 
 [112] [113] [114] [115]
-Underfull \hbox (badness 2134) in paragraph at lines 3135--3149
+Underfull \hbox (badness 2134) in paragraph at lines 3133--3147
 []\TU/LinuxLibertineO(0)/m/n/12 A busca pelas qualidades só pode ser titanesca,
 
  []
 
-[116] [117]
-Underfull \hbox (badness 3635) in paragraph at lines 3187--3190
+[116]
+Underfull \hbox (badness 3635) in paragraph at lines 3185--3188
 []\TU/LinuxLibertineO(0)/m/n/12 Mas senhor Jourdain, nem mesmo um \TU/LinuxLibe
 rtineO(0)/m/it/12 honnête
  []
 
-[118]
-Overfull \vbox (19.60797pt too high) has occurred while \output is active []
+[117] [118]
+Overfull \vbox (11.23096pt too high) has occurred while \output is active []
 
 
 [119] [120] [121] [122] [123] [124] [125]
-Overfull \vbox (14.3309pt too high) has occurred while \output is active []
+Overfull \vbox (14.10797pt too high) has occurred while \output is active []
 
 
-[126]
-Overfull \vbox (19.10797pt too high) has occurred while \output is active []
+[126] [127] [128] [129] [130] [131] [132] [133
 
-
-[127] [128] [129] [130] [131] [132] [133] [134
-
-] [135] [136]
+] [134]
 Overfull \vbox (9.10797pt too high) has occurred while \output is active []
 
 
-[137]
+[135]
 Overfull \vbox (7.65598pt too high) has occurred while \output is active []
 
 
-[138] [139] [140]
+[136] [137] [138]
 Overfull \vbox (17.95203pt too high) has occurred while \output is active []
 
 
-[141] [142] [143] [144] [145]
+[139] [140] [141] [142] [143]
 Overfull \vbox (9.60797pt too high) has occurred while \output is active []
 
 
-[146] [147] [148] [149] [150] [151] [152] [153] [154] [155] [156] [157]
-[158] [159] [160] [161] [162] [163] [164]
-Underfull \hbox (badness 1152) in paragraph at lines 4547--4559
+[144] [145] [146] [147] [148] [149] [150] [151] [152] [153] [154] [155]
+[156] [157] [158] [159] [160] [161] [162]
+Underfull \hbox (badness 1152) in paragraph at lines 4545--4557
 []\TU/LinuxLibertineO(0)/m/n/12 Dessa forma, podemos caracterizar o capitalismo
 
  []
@@ -1899,132 +1894,132 @@ Underfull \hbox (badness 1152) in paragraph at lines 4547--4559
 Overfull \vbox (9.65598pt too high) has occurred while \output is active []
 
 
-[165]
+[163]
 Unknown feature `protrusion=default' in font `Linux Libertine O Semibold'.
 Unknown feature `expansion=default' in font `Linux Libertine O Semibold'.
- [166]
-Underfull \hbox (badness 1629) in paragraph at lines 4606--4645
+ [164]
+Underfull \hbox (badness 1629) in paragraph at lines 4604--4643
 []\TU/LinuxLibertineO(0)/m/n/12 Os frankfurteanos falam, então, que temos aí o
  []
 
-[167]
+[165]
 Overfull \vbox (14.60797pt too high) has occurred while \output is active []
 
 
-[168]
+[166]
 Overfull \vbox (16.69997pt too high) has occurred while \output is active []
 
 
-[169] [170] [171] [172] [173] [174]
+[167] [168] [169] [170] [171] [172]
 Overfull \vbox (7.60797pt too high) has occurred while \output is active []
 
 
-[175]
+[173]
 Overfull \vbox (22.10797pt too high) has occurred while \output is active []
 
 
-[176]
+[174]
 Overfull \vbox (12.10797pt too high) has occurred while \output is active []
 
 
-[177] [178]
-Underfull \hbox (badness 1796) in paragraph at lines 4938--4947
+[175] [176]
+Underfull \hbox (badness 1796) in paragraph at lines 4936--4945
 []\TU/LinuxLibertineO(0)/m/n/12 Para Robert Kurz (2010b), o Esclarecimento mo-
  []
 
-[179] [180] [181] [182]
-Underfull \hbox (badness 1024) in paragraph at lines 5062--5081
+[177] [178] [179] [180]
+Underfull \hbox (badness 1024) in paragraph at lines 5060--5079
 []\TU/LinuxLibertineO(0)/m/n/12 A análise de Adorno em \TU/LinuxLibertineO(0)/m
 /it/12 Minima Moralia \TU/LinuxLibertineO(0)/m/n/12 parece
  []
 
-[183] [184] [185] [186] [187] [188] [189]
-Underfull \hbox (badness 1297) in paragraph at lines 5274--5285
+[181] [182] [183] [184] [185] [186] [187]
+Underfull \hbox (badness 1297) in paragraph at lines 5272--5283
 []\TU/LinuxLibertineO(0)/m/n/12 Por conseguinte, a forma-sujeito não constitui 
 o
  []
 
-[190] [191] [192] [193] [194] [195] [196] [197] [198] [199]
+[188] [189] [190] [191] [192] [193] [194] [195] [196] [197]
 Overfull \vbox (7.65598pt too high) has occurred while \output is active []
 
 
-[200] [201] [202] [203] [204] [205]
+[198] [199] [200] [201] [202] [203]
 Overfull \vbox (11.49597pt too high) has occurred while \output is active []
 
 
-[206]
+[204]
 Overfull \vbox (10.15598pt too high) has occurred while \output is active []
 
 
-[207] [208] [209]
-Overfull \hbox (0.10402pt too wide) in paragraph at lines 5863--5886
+[205] [206] [207]
+Overfull \hbox (0.10402pt too wide) in paragraph at lines 5861--5884
 \TU/LinuxLibertineO(0)/m/n/12 o desenvolver-se da vida social moderna, em nivel
 amento
  []
 
-[210] [211] [212] [213] [214] [215] [216] [217] [218] [219] [220] [221]
-[222] [223]
-Underfull \hbox (badness 1478) in paragraph at lines 6277--6298
+[208] [209] [210] [211] [212] [213] [214] [215] [216] [217] [218] [219]
+[220] [221]
+Underfull \hbox (badness 1478) in paragraph at lines 6275--6296
 \TU/LinuxLibertineO(0)/m/n/12 tanto técnicas consideradas “construtivas” quanto
  as
  []
 
-[224] [225]
-Underfull \hbox (badness 1014) in paragraph at lines 6350--6372
+[222] [223]
+Underfull \hbox (badness 1014) in paragraph at lines 6348--6370
 \TU/LinuxLibertineO(0)/m/n/12 demonstram uma subjetividade também amalgamada,
  []
 
-[226] [227] [228] [229] [230] [231] [232] [233] [234] [235] [236] [237]
-[238]
+[224] [225] [226] [227] [228] [229] [230] [231] [232] [233] [234] [235]
+[236]
 Overfull \vbox (11.95598pt too high) has occurred while \output is active []
 
 
-[239] [240] [241] [242] [243] [244] [245] [246] [247
+[237] [238] [239] [240] [241] [242] [243] [244] [245
 
-] [248] [249] [250]
-[251] [252] [253] [254] [255] [256] [257] [258] [259] [260] [261] [262]
-[263] [264] [265] [266] [267] [268] [269] [270] [271] [272] [273] [274]
-[275] [276] [277] [278] [279] [280] [281] [282] [283] [284] [285] [286]
-[287] [288] [289] [290] [291] [292] [293] [294] [295] [296] [297] [298]
-[299] [300] [301] [302] [303] [304] [305] [306] [307] [308] [309] [310]
-[311] [312]
-Overfull \hbox (2.6857pt too wide) in paragraph at lines 8778--8787
+] [246] [247] [248]
+[249] [250] [251] [252] [253] [254] [255] [256] [257] [258] [259] [260]
+[261] [262] [263] [264] [265] [266] [267] [268] [269] [270] [271] [272]
+[273] [274] [275] [276] [277] [278] [279] [280] [281] [282] [283] [284]
+[285] [286] [287] [288] [289] [290] [291] [292] [293] [294] [295] [296]
+[297] [298] [299] [300] [301] [302] [303] [304] [305] [306] [307] [308]
+[309] [310]
+Overfull \hbox (2.6857pt too wide) in paragraph at lines 8776--8785
 []\TU/LinuxLibertineO(0)/m/n/12 A Igreja forma uma esfera de importância. Empar
 elha-
  []
 
-[313] [314] [315] [316] [317] [318] [319] [320] [321] [322] [323] [324]
+[311] [312] [313] [314] [315] [316] [317] [318] [319] [320] [321] [322]
 Overfull \vbox (10.10797pt too high) has occurred while \output is active []
 
 
-[325]
+[323]
 Overfull \vbox (8.60797pt too high) has occurred while \output is active []
 
 
-[326] [327] [328] [329]
+[324] [325] [326] [327]
 Overfull \vbox (5.10797pt too high) has occurred while \output is active []
 
 
-[330] [331] [332] [333] [334] [335] [336] [337] [338] [339] [340] [341]
-[342]
-Underfull \hbox (badness 1231) in paragraph at lines 9636--9644
-\TU/LinuxLibertineO(0)/m/n/12 aí, lugar de ’vanguarda’)”, o “discurso evolucion
+[328] [329] [330] [331] [332] [333] [334] [335] [336] [337] [338] [339]
+[340]
+Underfull \hbox (badness 1231) in paragraph at lines 9634--9642
+\TU/LinuxLibertineO(0)/m/n/12 aí, lugar de ‘vanguarda’)”, o “discurso evolucion
 ista-
  []
 
-[343] [344]
-Underfull \hbox (badness 2635) in paragraph at lines 9699--9716
+[341] [342]
+Underfull \hbox (badness 2635) in paragraph at lines 9697--9714
 []\TU/LinuxLibertineO(0)/m/n/12 Nesse sentido, vale lembrar a aproximação que
  []
 
-[345] [346] [347] [348] [349] [350] [351] [352] [353] [354] [355] [356]
-[357] [358] [359] [360] [361] [362] [363] [364] [365] [366] [367] [368]
-[369] [370] [371] [372]
-Underfull \hbox (badness 1057) in paragraph at lines 10528--10536
+[343] [344] [345] [346] [347] [348] [349] [350] [351] [352] [353] [354]
+[355] [356] [357] [358] [359] [360] [361] [362] [363] [364] [365] [366]
+[367] [368] [369] [370]
+Underfull \hbox (badness 1057) in paragraph at lines 10526--10534
 []\TU/LinuxLibertineO(0)/m/n/12 À primeira vista, no personagem de Macunaíma,
  []
 
-[373] [374] [375] [376] [377] [378]
+[371] [372] [373] [374] [375] [376]
 Missing character: There is no ^^91 in font Linux Libertine O Italic/OT:script=
 latn;language=DFLT;protrusion=default, expansion=default;+onum;mapping=tex-text
 ;!
@@ -2035,36 +2030,36 @@ latn;language=DFLT;protrusion=default, expansion=default;+onum;mapping=tex-text
 Overfull \vbox (12.10797pt too high) has occurred while \output is active []
 
 
-[379] [380] [381] [382] [383] [384
+[377] [378] [379] [380] [381] [382
 
-] [385] [386] [387] [388] [389]
-Underfull \hbox (badness 1210) in paragraph at lines 10973--10989
+] [383] [384] [385] [386] [387]
+Underfull \hbox (badness 1210) in paragraph at lines 10971--10987
 \TU/LinuxLibertineO(0)/m/n/12 vínculos sociais baseados em tradições locais (\T
 U/LinuxLibertineO(0)/m/sc/12 marx\TU/LinuxLibertineO(0)/m/n/12 ,
  []
 
-[390] [391]
+[388] [389]
 Overfull \vbox (14.60797pt too high) has occurred while \output is active []
 
 
-[392]
+[390]
 Overfull \vbox (14.60797pt too high) has occurred while \output is active []
 
 
-[393] [394] [395] [396] [397] [398] [399] [400] [401] [402]
+[391] [392] [393] [394] [395] [396] [397] [398] [399] [400]
 Overfull \vbox (17.25833pt too high) has occurred while \output is active []
 
 
-[403]
+[401]
 Overfull \vbox (6.25204pt too high) has occurred while \output is active []
 
 
-[404] [405] [406] [407] [408] [409] [410] [411] [412] [413] [414] [415]
+[402] [403] [404] [405] [406] [407] [408] [409] [410] [411] [412] [413]
 Overfull \vbox (21.97597pt too high) has occurred while \output is active []
 
 
-[416]
-Underfull \hbox (badness 1087) in paragraph at lines 11774--11791
+[414]
+Underfull \hbox (badness 1087) in paragraph at lines 11772--11789
 []\TU/LinuxLibertineO(0)/m/n/12 Para romper a segunda natureza social moderna,
  []
 
@@ -2072,177 +2067,177 @@ Underfull \hbox (badness 1087) in paragraph at lines 11774--11791
 Overfull \vbox (16.108pt too high) has occurred while \output is active []
 
 
-[417] [418] [419] [420] [421] [422] [423] [424]
+[415] [416] [417] [418] [419] [420] [421] [422]
 Overfull \vbox (10.15598pt too high) has occurred while \output is active []
 
 
-[425]
+[423]
 Overfull \vbox (19.108pt too high) has occurred while \output is active []
 
 
-[426] [427] [428] [429]
+[424] [425] [426] [427]
 Overfull \vbox (20.70404pt too high) has occurred while \output is active []
 
 
-[430] [431] [432] [433]
-Underfull \hbox (badness 1371) in paragraph at lines 12261--12276
+[428] [429] [430] [431]
+Underfull \hbox (badness 1371) in paragraph at lines 12259--12274
 []\TU/LinuxLibertineO(0)/m/n/12 A tensão típica desse rodeio só pode se manter
  []
 
-[434]
-Overfull \hbox (19.11601pt too wide) in paragraph at lines 12298--12320
+[432]
+Overfull \hbox (19.11601pt too wide) in paragraph at lines 12296--12318
 []\TU/LinuxLibertineO(0)/m/n/12 Para Fredric Jameson (1997), o chamado pós-mode
 rnismo,
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 12298--12320
+Underfull \hbox (badness 1005) in paragraph at lines 12296--12318
 \TU/LinuxLibertineO(0)/m/n/12 subjetividade (agora plenamente coletivizada) des
 apa-
  []
 
-[435] [436] [437] [438]
-Underfull \hbox (badness 3343) in paragraph at lines 12411--12421
+[433] [434] [435] [436]
+Underfull \hbox (badness 3343) in paragraph at lines 12409--12419
 []\TU/LinuxLibertineO(0)/m/n/12 Lukács viu em Dante “uma transição histórico-
  []
 
-[439] [440] [441] [442] [443] [444] [445]
+[437] [438] [439] [440] [441] [442] [443]
 Overfull \vbox (19.60797pt too high) has occurred while \output is active []
 
 
-[446] [447]
+[444] [445]
 Overfull \vbox (7.60797pt too high) has occurred while \output is active []
 
 
-[448] [449] [450]
+[446] [447] [448]
 Missing character: There is no   in font Linux Libertine O/OT:script=latn;langu
 age=DFLT;protrusion=default, expansion=default;+onum;mapping=tex-text;!
 
 Overfull \vbox (17.15598pt too high) has occurred while \output is active []
 
 
-[451] [452] [453] [454] [455]
-Underfull \hbox (badness 2027) in paragraph at lines 12893--12916
+[449] [450] [451] [452] [453]
+Underfull \hbox (badness 2027) in paragraph at lines 12891--12914
 []\TU/LinuxLibertineO(0)/m/n/12 Tanto Ulrich quanto os personagens de Beckett,
  []
 
-[456]
+[454]
 Overfull \vbox (14.65598pt too high) has occurred while \output is active []
 
 
-[457] [458] [459] [460] [461] [462]
+[455] [456] [457] [458] [459] [460]
 Overfull \vbox (20.0541pt too high) has occurred while \output is active []
 
 
-[463] [464] [465] [466] [467] [468] [469] [470]
+[461] [462] [463] [464] [465] [466] [467] [468]
 Overfull \vbox (17.10797pt too high) has occurred while \output is active []
 
 
-[471] [472]
+[469] [470]
 Overfull \vbox (7.10797pt too high) has occurred while \output is active []
 
 
-[473] [474] [475] [476] [477] [478] [479] [480] [481] [482] [483
+[471] [472] [473] [474] [475] [476] [477] [478] [479] [480] [481
 
-] [484]
-[485] [486] [487] [488] [489] [490] [491] [492
+] [482]
+[483] [484] [485] [486] [487] [488] [489] [490
 
 ]
 Unknown feature `protrusion=default' in font `Linux Libertine O Semibold'.
 Unknown feature `expansion=default' in font `Linux Libertine O Semibold'.
- [493]
+ [491]
 Unknown feature `protrusion=default' in font `Linux Libertine O Semibold Italic
 '.
 Unknown feature `expansion=default' in font `Linux Libertine O Semibold Italic'
 .
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
- [494]
+ [492]
 Overfull \vbox (16.608pt too high) has occurred while \output is active []
 
 
-[495]
+[493]
 Overfull \vbox (7.10797pt too high) has occurred while \output is active []
 
 
-[496] [497] [498] [499]
+[494] [495] [496] [497]
 Overfull \vbox (8.656pt too high) has occurred while \output is active []
 
- [500]
-[501] [502] [503
+ [498]
+[499] [500] [501
 
-] [504]
+] [502]
 Unknown feature `protrusion=default' in font `Linux Libertine O Semibold'.
 Unknown feature `expansion=default' in font `Linux Libertine O Semibold'.
- [505] [506] [507] [508] [509] [510] [511]
+ [503] [504] [505] [506] [507] [508] [509]
 Unknown feature `protrusion=default' in font `Linux Libertine O Semibold Italic
 '.
 Unknown feature `expansion=default' in font `Linux Libertine O Semibold Italic'
 .
 
-Underfull \hbox (badness 2126) in paragraph at lines 14599--14603
+Underfull \hbox (badness 2126) in paragraph at lines 14597--14601
 []\TU/LinuxLibertineO(0)/m/n/12 _______ . \TU/LinuxLibertineO(0)/bx/n/12 Cinzen
 ta é a árvore dourada da vida
  []
 
 
-Underfull \hbox (badness 1728) in paragraph at lines 14599--14603
+Underfull \hbox (badness 1728) in paragraph at lines 14597--14601
 \TU/LinuxLibertineO(0)/bx/n/12 e verde é a teoria\TU/LinuxLibertineO(0)/m/n/12 
 . Trad. Tito Lívio R. Em Re-
  []
 
-[512]
-Underfull \hbox (badness 10000) in paragraph at lines 14619--14623
+[510]
+Underfull \hbox (badness 10000) in paragraph at lines 14617--14621
 \TU/LinuxLibertineO(0)/m/it/12 le-seul-et-vrai-paradis-une-histoire-de-liduxe9o
 logie-du-
  []
 
 
-Overfull \hbox (24.1pt too wide) in paragraph at lines 14619--14623
+Overfull \hbox (24.1pt too wide) in paragraph at lines 14617--14621
 \TU/LinuxLibertineO(0)/m/it/12 progruxe8s-et-de-ses-critiques.-traduuxe7uxe3o-f
 ruxe9duxe9ric-
  []
 
-[513] [514]
-Underfull \hbox (badness 3158) in paragraph at lines 14708--14712
+[511] [512]
+Underfull \hbox (badness 3158) in paragraph at lines 14706--14710
 \TU/LinuxLibertineO(0)/bx/n/12 bárie na tradição crítica brasileira. \TU/LinuxL
 ibertineO(0)/m/n/12 Relatório de
  []
 
 
-Underfull \hbox (badness 3179) in paragraph at lines 14708--14712
+Underfull \hbox (badness 3179) in paragraph at lines 14706--14710
 \TU/LinuxLibertineO(0)/m/n/12 pós-doutorado. São Paulo, 2011. Disponível em
  []
 
 
-Overfull \hbox (46.20401pt too wide) in paragraph at lines 14708--14712
+Overfull \hbox (46.20401pt too wide) in paragraph at lines 14706--14710
 \TU/LinuxLibertineO(0)/m/n/12 http://www.fflch.usp.br/df/site/posdoc/docs/maril
 do_menegat.pdf 
  []
 
-[515] [516]
-Underfull \hbox (badness 1215) in paragraph at lines 14764--14766
+[513] [514]
+Underfull \hbox (badness 1215) in paragraph at lines 14762--14764
 \TU/LinuxLibertineO(0)/bx/n/12 et l’essor de l’occident entre 1500 et 1800. \TU
 /LinuxLibertineO(0)/m/n/12 Paris:
  []
 
 
-Underfull \hbox (badness 3250) in paragraph at lines 14790--14792
+Underfull \hbox (badness 3250) in paragraph at lines 14788--14790
 []\TU/LinuxLibertineO(0)/m/sc/12 ricci\TU/LinuxLibertineO(0)/m/n/12 , Maria Ter
 esa. \TU/LinuxLibertineO(0)/bx/n/12 Du cortegiano au Discreto:
  []
 
-[517] [518] [519]
-Underfull \hbox (badness 1460) in paragraph at lines 14872--14877
+[515] [516] [517]
+Underfull \hbox (badness 1460) in paragraph at lines 14870--14875
 \TU/LinuxLibertineO(0)/m/n/12 Disponível em \TU/LinuxLibertineO(0)/m/it/12 http
 ://adorno.planetaclix.pt/ntrenkle.htm\TU/LinuxLibertineO(0)/m/n/12 .
  []
 
-)) [520] 
+)) [518] 
 AED: lastpage setting LastPage
 \openout2 = `PUBLICIDADE.aux'.
 
-(/home/editorial/texmf/tex/PUBLICIDADE.tex [521
+(/home/editorial/texmf/tex/PUBLICIDADE.tex [519
 
 
 
@@ -2256,13 +2251,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
-[522]
+[520]
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
- [523]
+ [521]
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
- [524] [525]) [526
+ [522] [523]) [524
 
 
 ]
@@ -2271,12 +2266,12 @@ Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 
  (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)) ) 
 Here is how much of TeX's memory you used:
- 26478 strings out of 492998
- 487285 string characters out of 6139960
+ 26480 strings out of 492998
+ 487313 string characters out of 6139960
  719162 words of memory out of 5000000
- 29952 multiletter control sequences out of 15000+600000
+ 29954 multiletter control sequences out of 15000+600000
  542385 words of font info for 116 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
  48i,12n,86p,10384b,528s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (526 pages, 9894668 bytes).
+Output written on LIVRO.xdv (524 pages, 9885808 bytes).
