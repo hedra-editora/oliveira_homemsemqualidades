@@ -17,25 +17,25 @@
 \contentsline {section}{O fetichismo da mercadoria como fundamento\\ moderno}{151}
 \contentsline {section}{O \emph {indivíduo} com a máscara de caráter do~sujeito~burguês~--~o~\emph {Indivíduo}}{162}
 \contentsline {section}{O \emph {homem sem qualidades} e o \emph {amorfismo humano} como ponto de fuga sem saída}{188}
-\contentsline {section}{O \emph {homem sem qualidades} e o entrecruzamemento rumo ao futuro}{212}
+\contentsline {section}{O \emph {homem sem qualidades} e o entrecruzamemento rumo ao futuro}{213}
 \contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont \textsc {\MakeTextLowercase {FORMA-SUJEITO BURGUESA NO BRASIL:\\ \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {ENTRE \emph {NATUREZA} E \emph {CULTURA}}}}}{243}
-\contentsline {section}{A dinâmica da história brasileira e~os~germes~mercantis}{266}
-\contentsline {section}{O caráter orgânico e inorgânico da vida social e subjetiva burguesas no Brasil}{278}
-\contentsline {section}{A economia interna: o~lado~obscuro~da~\emph {Economia}}{285}
-\contentsline {section}{O simbólico"-religioso brasileiro: uma~tradição~colonial}{305}
-\contentsline {section}{À luz, o tímido germe moderno}{317}
-\contentsline {section}{Fundamentos para o nascimento de~um~espírito~burguês}{331}
-\contentsline {section}{Espírito nacional e antropofagia:\\ uma síntese \emph {indígeno"-burguesa}}{337}
-\contentsline {section}{\emph {Macunaíma} e a brasilidade burguesa~de~limbo}{351}
-\contentsline {section}{Entre Ulisses e Leonardo ou a dialética da forma"-sujeito burguesa malandra \vspace \medskipamount }{371}
-\contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont \textsc {\MakeTextLowercase {O HOMEM SEM QUALIDADES\\ À ESPERA DE GODOT}}}{381}
-\contentsline {section}{O fetichismo da mercadoria em Marx e seus\\desenvolvimentos}{383}
-\contentsline {section}{Forma-sujeito burguesa e~segunda~natureza}{404}
-\contentsline {section}{O valor-signo como usura do simbólico}{415}
-\contentsline {section}{O tempo tornado abstrato cobra~sua~conta?}{420}
-\contentsline {section}{Beckett e a estética da vida mercantil~desenvolvida}{431}
-\contentsline {section}{No \emph {fim de partida}, esperamos \emph {Godot} em \emph {dias felizes}? \vspace \bigskipamount }{444}
-\contentsline {chapter}{Reflexões finais}{479}
-\contentsline {chapter}{Posfácio}{489}
-\contentsline {chapter}{Referências bibliográficas}{499}
+\contentsline {section}{A dinâmica da história brasileira e~os~germes~mercantis}{260}
+\contentsline {section}{O caráter orgânico e inorgânico da vida social e subjetiva burguesas no Brasil}{272}
+\contentsline {section}{A economia interna: o~lado~obscuro~da~\emph {Economia}}{279}
+\contentsline {section}{O simbólico"-religioso brasileiro: uma~tradição~colonial}{298}
+\contentsline {section}{À luz, o tímido germe moderno}{310}
+\contentsline {section}{Fundamentos para o nascimento de~um~espírito~burguês}{324}
+\contentsline {section}{Espírito nacional e antropofagia:\\ uma síntese \emph {indígeno"-burguesa}}{330}
+\contentsline {section}{\emph {Macunaíma} e a brasilidade burguesa~de~limbo}{344}
+\contentsline {section}{Entre Ulisses e Leonardo ou a dialética da forma"-sujeito burguesa malandra \vspace \medskipamount }{365}
+\contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont \textsc {\MakeTextLowercase {O HOMEM SEM QUALIDADES\\ À ESPERA DE GODOT}}}{375}
+\contentsline {section}{O fetichismo da mercadoria em Marx e seus\\desenvolvimentos}{377}
+\contentsline {section}{Forma-sujeito burguesa e~segunda~natureza}{398}
+\contentsline {section}{O valor-signo como usura do simbólico}{409}
+\contentsline {section}{O tempo tornado abstrato cobra~sua~conta?}{414}
+\contentsline {section}{Beckett e a estética da vida mercantil~desenvolvida}{425}
+\contentsline {section}{No \emph {fim de partida}, esperamos \emph {Godot} em \emph {dias felizes}? \vspace \bigskipamount }{439}
+\contentsline {chapter}{Reflexões finais}{475}
+\contentsline {chapter}{Posfácio}{483}
+\contentsline {chapter}{Referências bibliográficas}{493}
 \contentsfinish 
