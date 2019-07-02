@@ -242,12 +242,14 @@ INPUT /home/editorial/texmf/tex/versos.sty
 INPUT /home/editorial/texmf/tex/versos.sty
 INPUT gitrevisioninfo.sty
 INPUT gitrevisioninfo.sty
-INPUT /usr/share/texmf-dist/tex/latex/tools/afterpage.sty
-INPUT /usr/share/texmf-dist/tex/latex/tools/afterpage.sty
 INPUT /usr/share/texmf-dist/tex/latex/imakeidx/imakeidx.sty
 INPUT /usr/share/texmf-dist/tex/latex/imakeidx/imakeidx.sty
 INPUT /usr/share/texmf-dist/tex/latex/tools/multicol.sty
 INPUT /usr/share/texmf-dist/tex/latex/tools/multicol.sty
+OUTPUT LIVRO.idx
+OUTPUT LIVRO.idx
+INPUT /usr/share/texmf-dist/tex/latex/tools/afterpage.sty
+INPUT /usr/share/texmf-dist/tex/latex/tools/afterpage.sty
 OUTPUT LIVRO.idx
 OUTPUT LIVRO.idx
 INPUT /home/editorial/texmf/tex/commands.sty
@@ -321,6 +323,10 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT INDEX.tex
+INPUT INDEX.tex
+INPUT LIVRO.ind
+INPUT LIVRO.ind
 OUTPUT PUBLICIDADE.aux
 INPUT /home/editorial/texmf/tex/PUBLICIDADE.tex
 INPUT /home/editorial/texmf/tex/PUBLICIDADE.tex
