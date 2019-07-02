@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  2 JUL 2019 15:23
+=======
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  2 JUL 2019 15:31
+>>>>>>> d7e5bc4685c6583594f547c38aedba7beb2d8740
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1418,20 +1422,19 @@ e .
 \CT@t=\box56
 \@CTcurftwidth=\dimen322
 )) (/home/editorial/texmf/tex/versos.sty) (./gitrevisioninfo.sty)
-(/usr/share/texmf-dist/tex/latex/tools/afterpage.sty
-Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
-\AP@output=\toks38
-\AP@partial=\box57
-\AP@footins=\box58
-)
 (/usr/share/texmf-dist/tex/latex/imakeidx/imakeidx.sty
 Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
 nous mode
 
 (/usr/share/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
+<<<<<<< HEAD
 \c@tracingmulticols=\count345
 \mult@box=\box59
+=======
+\c@tracingmulticols=\count344
+\mult@box=\box57
+>>>>>>> d7e5bc4685c6583594f547c38aedba7beb2d8740
 \multicol@leftmargin=\dimen323
 \c@unbalance=\count346
 \c@collectmore=\count347
@@ -1444,13 +1447,15 @@ Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \postmulticols=\dimen327
 \multicolsep=\skip271
 \multicolbaselineskip=\skip272
-\partial@page=\box60
-\last@line=\box61
+\partial@page=\box58
+\last@line=\box59
 \maxbalancingoverflow=\dimen328
-\mult@rightbox=\box62
-\mult@grightbox=\box63
-\mult@gfirstbox=\box64
-\mult@firstbox=\box65
+\mult@rightbox=\box60
+\mult@grightbox=\box61
+\mult@gfirstbox=\box62
+\mult@firstbox=\box63
+\@tempa=\box64
+\@tempa=\box65
 \@tempa=\box66
 \@tempa=\box67
 \@tempa=\box68
@@ -1466,6 +1471,7 @@ Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \@tempa=\box78
 \@tempa=\box79
 \@tempa=\box80
+<<<<<<< HEAD
 \@tempa=\box81
 \@tempa=\box82
 \c@columnbadness=\count351
@@ -1476,6 +1482,16 @@ Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \mult@nat@firstbox=\box83
 \colbreak@box=\box84
 \mc@col@check@num=\count353
+=======
+\c@columnbadness=\count350
+\c@finalcolumnbadness=\count351
+\last@try=\dimen329
+\multicolovershoot=\dimen330
+\multicolundershoot=\dimen331
+\mult@nat@firstbox=\box81
+\colbreak@box=\box82
+\mc@col@check@num=\count352
+>>>>>>> d7e5bc4685c6583594f547c38aedba7beb2d8740
 ))
 \LIVRO@idxfile=\write5
 \openout5 = `LIVRO.idx'.
@@ -1486,51 +1502,80 @@ Writing index file LIVRO.idx
 \openout6 = `LIVRO.idx'.
 
 Writing index file LIVRO.idx
+(/usr/share/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks38
+\AP@partial=\box83
+\AP@footins=\box84
+)
+\LIVRO@idxfile=\write7
+\openout7 = `LIVRO.idx'.
+
+
+Writing index file LIVRO.idx
+\LIVRO@idxfile=\write8
+\openout8 = `LIVRO.idx'.
+
+Writing index file LIVRO.idx
 (/home/editorial/texmf/tex/commands.sty) (./LIVRO.aux (./INPUTS.aux)
 (./PUBLICIDADE.aux))
 \openout1 = `LIVRO.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 103.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 103.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 113.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 113.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 113.
 
  (/usr/share/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
+<<<<<<< HEAD
 LaTeX Font Info:    ... okay on input line 103.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 103.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 103.
+=======
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 113.
+LaTeX Font Info:    Try loading font information for EU1+lmr on input line 113.
+
+
+(/usr/share/texmf-dist/tex/latex/euenc/eu1lmr.fd
+File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 113.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 113.
+>>>>>>> d7e5bc4685c6583594f547c38aedba7beb2d8740
 
 (/usr/share/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 103.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 103.
+LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 113.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 113.
 
 
 (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    ... okay on input line 113.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
-LaTeX Info: Redefining \dots on input line 103.
-LaTeX Info: Redefining \up on input line 103.
-LaTeX Info: Redefining \microtypecontext on input line 103.
+LaTeX Info: Redefining \dots on input line 113.
+LaTeX Info: Redefining \up on input line 113.
+LaTeX Info: Redefining \microtypecontext on input line 113.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -1547,68 +1592,68 @@ Package microtype Info: Loading generic protrusion settings for font family
 .................................................
 \symlegacymaths=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 103.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 103.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 103.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 103.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 103.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 103.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 103.
-LaTeX Font Info:    Redeclaring math accent \check on input line 103.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 103.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 103.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 103.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 103.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 103.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 103.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 103.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 103.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 103.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 103.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 103.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 103.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 103.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 103.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 103.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 103.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 103.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 113.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 113.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 113.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 113.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 113.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 113.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 113.
+LaTeX Font Info:    Redeclaring math accent \check on input line 113.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 113.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 113.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 113.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 113.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 113.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 103.
+(Font)              `operators' in the math version `normal' on input line 113.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/LinuxLibertineO(0)/m/n on input line
- 103.
+ 113.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 103.
+(Font)              `operators' in the math version `bold' on input line 113.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/m/n on input lin
-e 103.
+e 113.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/m/n
- on input line 103.
+ on input line 113.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/LinuxLibertineO(0)/m/it on input li
-ne 103.
+ne 113.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/bx/n on input li
-ne 103.
+ne 113.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 103.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 113.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 103.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 113.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/bx/
-n on input line 103.
+n on input line 113.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/LinuxLibertineO(0)/bx/it on input 
-line 103.
+line 113.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 103.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 113.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 103.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 113.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 103.
+(lastpage)             ! on input line 113.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: rotating package is loaded.
 Package caption Info: xtab package is loaded.
@@ -1639,11 +1684,11 @@ Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 103.
+(Font)              <8> on input line 113.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 103.
+(Font)              <6> on input line 113.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 103.
+(Font)              <5> on input line 113.
 
 (/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
@@ -1659,7 +1704,7 @@ Unknown feature `expansion=default' in font `Linux Libertine O'.
 ]
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 103.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 113.
 
 
 (/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
@@ -1963,6 +2008,7 @@ Overfull \vbox (14.65598pt too high) has occurred while \output is active []
 
 [238] [239] [240] [241] [242] [243] [244] [245
 
+<<<<<<< HEAD
 ] [246] [247] [248] [249]
 [250] [251] [252] [253] [254] [255] [256] [257] [258] [259] [260] [261]
 [262] [263] [264] [265] [266] [267] [268] [269] [270] [271] [272] [273]
@@ -1970,10 +2016,20 @@ Overfull \vbox (14.65598pt too high) has occurred while \output is active []
 [286] [287] [288] [289] [290] [291] [292] [293] [294] [295] [296] [297]
 [298] [299] [300] [301] [302]
 Overfull \hbox (2.6857pt too wide) in paragraph at lines 8425--8434
+=======
+] [244] [245] [246] [247]
+[248] [249] [250] [251] [252] [253] [254] [255] [256] [257] [258] [259]
+[260] [261] [262] [263] [264] [265] [266] [267] [268] [269] [270] [271]
+[272] [273] [274] [275] [276] [277] [278] [279] [280] [281] [282] [283]
+[284] [285] [286] [287] [288] [289] [290] [291] [292] [293] [294] [295]
+[296] [297] [298] [299] [300]
+Overfull \hbox (2.6857pt too wide) in paragraph at lines 8429--8438
+>>>>>>> d7e5bc4685c6583594f547c38aedba7beb2d8740
 []\TU/LinuxLibertineO(0)/m/n/12 A Igreja forma uma esfera de importância. Empar
 elha-
  []
 
+<<<<<<< HEAD
 [303] [304] [305] [306] [307] [308] [309] [310] [311] [312] [313] [314]
 [315]
 Overfull \vbox (20.60797pt too high) has occurred while \output is active []
@@ -1986,10 +2042,25 @@ Overfull \vbox (17.10797pt too high) has occurred while \output is active []
 [320] [321] [322] [323] [324] [325] [326] [327] [328] [329] [330] [331]
 [332]
 Underfull \hbox (badness 1231) in paragraph at lines 9267--9275
+=======
+[301] [302] [303] [304] [305] [306] [307] [308] [309] [310] [311] [312]
+[313]
+Overfull \vbox (20.60797pt too high) has occurred while \output is active []
+
+
+[314] [315] [316] [317]
+Overfull \vbox (17.10797pt too high) has occurred while \output is active []
+
+
+[318] [319] [320] [321] [322] [323] [324] [325] [326] [327] [328] [329]
+[330]
+Underfull \hbox (badness 1231) in paragraph at lines 9271--9279
+>>>>>>> d7e5bc4685c6583594f547c38aedba7beb2d8740
 \TU/LinuxLibertineO(0)/m/n/12 aí, lugar de ‘vanguarda’)”, o “discurso evolucion
 ista-
  []
 
+<<<<<<< HEAD
 [333] [334]
 Underfull \hbox (badness 2635) in paragraph at lines 9330--9347
 []\TU/LinuxLibertineO(0)/m/n/12 Nesse sentido, vale lembrar a aproximação que
@@ -2008,40 +2079,91 @@ Underfull \hbox (badness 1496) in paragraph at lines 10359--10359
 de histórico-
  []
 
+=======
+[331] [332]
+Underfull \hbox (badness 2635) in paragraph at lines 9334--9351
+[]\TU/LinuxLibertineO(0)/m/n/12 Nesse sentido, vale lembrar a aproximação que
+ []
+
+[333] [334] [335] [336] [337] [338] [339] [340] [341] [342] [343] [344]
+[345] [346] [347] [348] [349] [350] [351] [352] [353] [354] [355] [356]
+[357] [358] [359] [360]
+Underfull \hbox (badness 1057) in paragraph at lines 10157--10165
+[]\TU/LinuxLibertineO(0)/m/n/12 À primeira vista, no personagem de Macunaíma,
+ []
+
+[361] [362] [363] [364] [365] [366] [367]
+Underfull \hbox (badness 1496) in paragraph at lines 10363--10363
+[]\TU/LinuxLibertineO(0)/m/n/10 4. []Já vimos o quanto essa afirmação não proce
+de histórico-
+ []
+
+
+Overfull \vbox (10.10797pt too high) has occurred while \output is active []
+>>>>>>> d7e5bc4685c6583594f547c38aedba7beb2d8740
 
 Overfull \vbox (10.10797pt too high) has occurred while \output is active []
 
+<<<<<<< HEAD
 
 [370] [371] [372] [373] [374] [375
 
 ] [376] [377] [378] [379]
 Underfull \hbox (badness 1210) in paragraph at lines 10607--10623
+=======
+[368] [369] [370] [371] [372] [373
+
+] [374] [375] [376] [377]
+Underfull \hbox (badness 1210) in paragraph at lines 10611--10627
+>>>>>>> d7e5bc4685c6583594f547c38aedba7beb2d8740
 \TU/LinuxLibertineO(0)/m/n/12 vínculos sociais baseados em tradições locais (\T
 U/LinuxLibertineO(0)/m/sc/12 marx\TU/LinuxLibertineO(0)/m/n/12 ,
  []
 
+<<<<<<< HEAD
 [380] [381]
+=======
+[378] [379]
+>>>>>>> d7e5bc4685c6583594f547c38aedba7beb2d8740
 Overfull \vbox (14.60797pt too high) has occurred while \output is active []
 
 
-[382]
+[380]
 Overfull \vbox (14.65598pt too high) has occurred while \output is active []
 
 
+<<<<<<< HEAD
 [383] [384] [385] [386] [387] [388] [389] [390] [391] [392] [393] [394]
 [395] [396] [397] [398] [399] [400] [401] [402] [403] [404] [405] [406]
 Underfull \hbox (badness 1087) in paragraph at lines 11404--11421
+=======
+[381] [382] [383] [384] [385] [386] [387] [388] [389] [390] [391] [392]
+[393] [394] [395] [396] [397] [398] [399] [400] [401] [402] [403] [404]
+Underfull \hbox (badness 1087) in paragraph at lines 11408--11425
+>>>>>>> d7e5bc4685c6583594f547c38aedba7beb2d8740
 []\TU/LinuxLibertineO(0)/m/n/12 Para romper a segunda natureza social moderna,
  []
 
 
 Overfull \vbox (11.108pt too high) has occurred while \output is active []
+<<<<<<< HEAD
+=======
 
+>>>>>>> d7e5bc4685c6583594f547c38aedba7beb2d8740
 
-[407] [408] [409] [410] [411] [412] [413] [414] [415] [416]
+[405] [406] [407] [408] [409] [410] [411] [412] [413] [414]
 Overfull \vbox (7.60797pt too high) has occurred while \output is active []
 
+<<<<<<< HEAD
+[407] [408] [409] [410] [411] [412] [413] [414] [415] [416]
+Overfull \vbox (7.60797pt too high) has occurred while \output is active []
+=======
+>>>>>>> d7e5bc4685c6583594f547c38aedba7beb2d8740
 
+[415] [416] [417] [418]
+Overfull \vbox (7.65598pt too high) has occurred while \output is active []
+
+<<<<<<< HEAD
 [417] [418] [419] [420]
 Overfull \vbox (7.65598pt too high) has occurred while \output is active []
 
@@ -2053,10 +2175,21 @@ Underfull \hbox (badness 1371) in paragraph at lines 11890--11905
 
 [424]
 Overfull \hbox (4.41602pt too wide) in paragraph at lines 11927--11949
+=======
+
+[419] [420] [421]
+Underfull \hbox (badness 1371) in paragraph at lines 11894--11909
+[]\TU/LinuxLibertineO(0)/m/n/12 A tensão típica desse rodeio só pode se manter
+ []
+
+[422]
+Overfull \hbox (4.41602pt too wide) in paragraph at lines 11931--11953
+>>>>>>> d7e5bc4685c6583594f547c38aedba7beb2d8740
 []\TU/LinuxLibertineO(0)/m/n/12 Para Fredric Jameson (1997), o chamado pós-mode
 rnis-
  []
 
+<<<<<<< HEAD
 [425] [426] [427] [428]
 Underfull \hbox (badness 3343) in paragraph at lines 12040--12050
 []\TU/LinuxLibertineO(0)/m/n/12 Lukács viu em Dante “uma transição histórico-
@@ -2072,6 +2205,23 @@ Overfull \vbox (17.10797pt too high) has occurred while \output is active []
 
 [442] [443]
 Underfull \hbox (badness 1365) in paragraph at lines 12426--12445
+=======
+[423] [424] [425] [426]
+Underfull \hbox (badness 3343) in paragraph at lines 12044--12054
+[]\TU/LinuxLibertineO(0)/m/n/12 Lukács viu em Dante “uma transição histórico-
+ []
+
+[427] [428] [429] [430] [431] [432] [433] [434]
+Overfull \vbox (19.65598pt too high) has occurred while \output is active []
+
+
+[435] [436] [437] [438] [439]
+Overfull \vbox (17.10797pt too high) has occurred while \output is active []
+
+
+[440] [441]
+Underfull \hbox (badness 1365) in paragraph at lines 12430--12449
+>>>>>>> d7e5bc4685c6583594f547c38aedba7beb2d8740
 []\TU/LinuxLibertineO(0)/m/n/12 Diria, então, que as mercadorias ganharam uma
  []
 
@@ -2079,31 +2229,36 @@ Underfull \hbox (badness 1365) in paragraph at lines 12426--12445
 Overfull \vbox (0.10797pt too high) has occurred while \output is active []
 
 
+<<<<<<< HEAD
 [444] [445] [446]
 Underfull \hbox (badness 2027) in paragraph at lines 12517--12540
+=======
+[442] [443] [444]
+Underfull \hbox (badness 2027) in paragraph at lines 12521--12544
+>>>>>>> d7e5bc4685c6583594f547c38aedba7beb2d8740
 []\TU/LinuxLibertineO(0)/m/n/12 Tanto Ulrich quanto os personagens de Beckett,
  []
 
-[447]
+[445]
 Overfull \vbox (14.65598pt too high) has occurred while \output is active []
 
 
-[448] [449] [450] [451] [452] [453]
+[446] [447] [448] [449] [450] [451]
 Overfull \vbox (20.0541pt too high) has occurred while \output is active []
 
 
-[454] [455] [456] [457] [458] [459] [460] [461]
+[452] [453] [454] [455] [456] [457] [458] [459]
 Overfull \vbox (17.10797pt too high) has occurred while \output is active []
 
 
-[462] [463]
+[460] [461]
 Overfull \vbox (7.15598pt too high) has occurred while \output is active []
 
 
-[464] [465] [466] [467] [468] [469] [470] [471] [472] [473] [474] [475
+[462] [463] [464] [465] [466] [467] [468] [469] [470] [471] [472] [473
 
 ]
-[476] [477] [478] [479] [480] [481] [482] [483
+[474] [475] [476] [477] [478] [479] [480] [481
 
 ]
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
@@ -2112,56 +2267,75 @@ Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 Overfull \vbox (10.15598pt too high) has occurred while \output is active []
 
 
-[484]
+[482]
 Overfull \vbox (16.656pt too high) has occurred while \output is active []
 
 
-[485]
+[483]
 Overfull \vbox (5.89597pt too high) has occurred while \output is active []
 
 
-[486] [487] [488] [489] [490] [491] [492] [493
+[484] [485] [486] [487] [488] [489] [490] [491
 
+<<<<<<< HEAD
 ] [494] [495] [496] [497]
 [498] [499] [500] [501]
 Underfull \hbox (badness 1902) in paragraph at lines 14140--14143
+=======
+] [492] [493] [494] [495]
+[496] [497] [498] [499]
+Underfull \hbox (badness 1902) in paragraph at lines 14144--14147
+>>>>>>> d7e5bc4685c6583594f547c38aedba7beb2d8740
 []\TU/LinuxLibertineO(0)/m/n/12 _______ . \TU/LinuxLibertineO(0)/m/it/12 Cinzen
 ta é a árvore dourada da vida e
  []
 
+<<<<<<< HEAD
 [502] [503] [504]
 Overfull \hbox (5.7027pt too wide) in paragraph at lines 14243--14246
+=======
+[500] [501] [502]
+Overfull \hbox (5.7027pt too wide) in paragraph at lines 14247--14250
+>>>>>>> d7e5bc4685c6583594f547c38aedba7beb2d8740
 \TU/LinuxLibertineO(0)/m/n/12 São Paulo, 2011. Disponível em: <\TU/LinuxLiberti
 neO(0)/m/it/12 https://bit.ly/2NqmKLE\TU/LinuxLibertineO(0)/m/n/12 >. 
  []
 
-[505] [506] [507] [508] [509])) [510] 
-AED: lastpage setting LastPage
-\openout2 = `PUBLICIDADE.aux'.
+[503] [504] [505] [506] [507]) (./INDEX.tex [508]
+runsystem(makeindex LIVRO.idx)...executed safely (allowed).
 
-(/home/editorial/texmf/tex/PUBLICIDADE.tex [511
-
+ (./LIVRO.ind))) [509
 
 
 ]
+
+AED: lastpage setting LastPage
+\openout2 = `PUBLICIDADE.aux'.
+
+(/home/editorial/texmf/tex/PUBLICIDADE.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
  []
 
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
-[512]
-Unknown feature `protrusion=default' in font `Linux Libertine O'.
-Unknown feature `expansion=default' in font `Linux Libertine O'.
- [513]
-Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
-Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
- [514] [515]) [516
+[510
+
+
 
 
 ]
-\tf@toc=\write7
-\openout7 = `LIVRO.toc'.
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+ [511]
+Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
+Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
+ [512] [513]) [514
+
+
+]
+\tf@toc=\write9
+\openout9 = `LIVRO.toc'.
 
  (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux))
 
@@ -2169,12 +2343,24 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  26644 strings out of 493010
  489682 string characters out of 6140134
  737246 words of memory out of 5000000
  30121 multiletter control sequences out of 15000+600000
  544032 words of font info for 112 fonts, out of 8000000 for 9000
+=======
+ 26503 strings out of 492998
+ 486944 string characters out of 6139960
+ 718148 words of memory out of 5000000
+ 29975 multiletter control sequences out of 15000+600000
+ 544178 words of font info for 116 fonts, out of 8000000 for 9000
+>>>>>>> d7e5bc4685c6583594f547c38aedba7beb2d8740
  1372 hyphenation exceptions out of 8191
  49i,12n,85p,10427b,526s stack positions out of 5000i,500n,10000p,200000b,80000s
 
+<<<<<<< HEAD
 Output written on LIVRO.xdv (516 pages, 9635760 bytes).
+=======
+Output written on LIVRO.xdv (514 pages, 9634668 bytes).
+>>>>>>> d7e5bc4685c6583594f547c38aedba7beb2d8740
