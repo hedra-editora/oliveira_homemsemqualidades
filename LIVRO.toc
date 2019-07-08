@@ -15,28 +15,28 @@
 \contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont \textsc {\MakeTextLowercase {O HOMEM SEM QUALIDADES:\\ \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {DO AMORFISMO HUMANO AO CARÁTER \emph {BLASÉ}}}}}{133}
 \contentsline {section}{Razão moderna e forma"-sujeito moderna}{145}
 \contentsline {section}{O fetichismo da mercadoria como fundamento\\ moderno}{153}
-\contentsline {section}{O \emph {indivíduo} com a máscara de caráter do~sujeito~burguês~--~o~\emph {Indivíduo}}{164}
+\contentsline {section}{O \emph {indivíduo} com a máscara de caráter do~sujeito~burguês~--~o~\emph {Indivíduo}}{165}
 \contentsline {section}{O \emph {homem sem qualidades} e o \emph {amorfismo humano} como ponto de fuga sem saída}{190}
 \contentsline {section}{O \emph {homem sem qualidades} e o entrecruzamemento rumo ao futuro}{215}
-\contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont \textsc {\MakeTextLowercase {FORMA-SUJEITO BURGUESA NO BRASIL:\\ \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {ENTRE \emph {NATUREZA} E \emph {CULTURA}}}}}{245}
-\contentsline {section}{A dinâmica da história brasileira e~os~germes~mercantis}{262}
-\contentsline {section}{O caráter orgânico e inorgânico da vida social e subjetiva burguesas no Brasil}{274}
-\contentsline {section}{A economia interna: o~lado~obscuro~da~\emph {Economia}}{281}
-\contentsline {section}{O simbólico"-religioso brasileiro: uma~tradição~colonial}{299}
-\contentsline {section}{À luz, o tímido germe moderno}{311}
-\contentsline {section}{Fundamentos para o nascimento de~um~espírito~burguês}{325}
-\contentsline {section}{Espírito nacional e antropofagia:\\ uma síntese \emph {indígeno"-burguesa}}{331}
-\contentsline {section}{\emph {Macunaíma} e a brasilidade burguesa~de~limbo}{345}
-\contentsline {section}{Entre Ulisses e Leonardo ou a dialética da forma"-sujeito burguesa malandra \vspace \medskipamount }{365}
-\contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont \textsc {\MakeTextLowercase {O HOMEM SEM QUALIDADES\\ À ESPERA DE GODOT}}}{375}
-\contentsline {section}{O fetichismo da mercadoria em Marx e seus\\desenvolvimentos}{377}
-\contentsline {section}{Forma-sujeito burguesa e~segunda~natureza}{398}
-\contentsline {section}{O valor-signo como usura do simbólico}{410}
-\contentsline {section}{O tempo tornado abstrato cobra~sua~conta?}{415}
-\contentsline {section}{Beckett e a estética da vida mercantil~desenvolvida}{426}
-\contentsline {section}{No \emph {fim de partida}, esperamos \emph {Godot} em \emph {dias felizes}? \vspace \bigskipamount }{439}
-\contentsline {chapter}{Reflexões finais}{475}
-\contentsline {chapter}{Posfácio}{483}
-\contentsline {chapter}{Referências bibliográficas}{493}
-\contentsline {chapter}{Índice onomástico}{511}
+\contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont \textsc {\MakeTextLowercase {FORMA-SUJEITO BURGUESA NO BRASIL:\\ \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {ENTRE \emph {NATUREZA} E \emph {CULTURA}}}}}{247}
+\contentsline {section}{A dinâmica da história brasileira e~os~germes~mercantis}{264}
+\contentsline {section}{O caráter orgânico e inorgânico da vida social e subjetiva burguesas no Brasil}{276}
+\contentsline {section}{A economia interna: o~lado~obscuro~da~\emph {Economia}}{283}
+\contentsline {section}{O simbólico"-religioso brasileiro: uma~tradição~colonial}{301}
+\contentsline {section}{À luz, o tímido germe moderno}{313}
+\contentsline {section}{Fundamentos para o nascimento de~um~espírito~burguês}{327}
+\contentsline {section}{Espírito nacional e antropofagia:\\ uma síntese \emph {indígeno"-burguesa}}{333}
+\contentsline {section}{\emph {Macunaíma} e a brasilidade burguesa~de~limbo}{347}
+\contentsline {section}{Entre Ulisses e Leonardo ou a dialética da forma"-sujeito burguesa malandra \vspace \medskipamount }{367}
+\contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont \textsc {\MakeTextLowercase {O HOMEM SEM QUALIDADES\\ À ESPERA DE GODOT}}}{377}
+\contentsline {section}{O fetichismo da mercadoria em Marx e seus\\desenvolvimentos}{379}
+\contentsline {section}{Forma-sujeito burguesa e~segunda~natureza}{400}
+\contentsline {section}{O valor-signo como usura do simbólico}{412}
+\contentsline {section}{O tempo tornado abstrato cobra~sua~conta?}{416}
+\contentsline {section}{Beckett e a estética da vida mercantil~desenvolvida}{428}
+\contentsline {section}{No \emph {fim de partida}, esperamos \emph {Godot} em \emph {dias felizes}? \vspace \bigskipamount }{441}
+\contentsline {chapter}{Reflexões finais}{477}
+\contentsline {chapter}{Posfácio}{485}
+\contentsline {chapter}{Referências bibliográficas}{495}
+\contentsline {chapter}{Índice onomástico}{513}
 \contentsfinish 
