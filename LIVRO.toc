@@ -1,42 +1,42 @@
 \select@language {brazilian}
 \hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {chapter}{Prefácio, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\emph {por Anselm Jappe}}}{11}
-\contentsline {chapter}{Introdução \vspace \bigskipamount }{23}
-\contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont \textsc {\MakeTextLowercase {MOLIÈRE E \emph {O BURGUÊS FIDALGO}:\\ \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {ENTRECRUZAMENTO ENTRE FIDALGUIA E BURGUESIA}}}}{41}
-\contentsline {section}{O ``renascimento'' filosófico e científico intelectual na idade média: tensionamentos}{47}
-\contentsline {section}{Mudança no sentido social e subjetivo do tempo: uma revolução rumo à modernidade}{61}
-\contentsline {subsection}{Tempo abstrato e tempo concreto}{64}
-\contentsline {section}{Sentido do tempo rumo à modernidade}{74}
-\contentsline {section}{O impulso para a marcha rumo~à~modernidade}{78}
-\contentsline {section}{O Burguês fidalgo, O avaro, Preciosas ridículas: tensionamentos}{94}
-\contentsline {section}{O burguês fidalgo: \emph {ridículo}}{101}
-\contentsline {section}{Preciosas ridículas: \emph {ridículas}}{118}
-\contentsline {section}{Outros tensionamentos em \emph {O avaro}: também \emph {ridículo} \vspace \medskipamount }{124}
-\contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont \textsc {\MakeTextLowercase {O HOMEM SEM QUALIDADES:\\ \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {DO AMORFISMO HUMANO AO CARÁTER \emph {BLASÉ}}}}}{133}
-\contentsline {section}{Razão moderna e forma"-sujeito moderna}{145}
-\contentsline {section}{O fetichismo da mercadoria como fundamento\\ moderno}{153}
-\contentsline {section}{O \emph {indivíduo} com a máscara de caráter do~sujeito~burguês~--~o~\emph {Indivíduo}}{165}
-\contentsline {section}{O \emph {homem sem qualidades} e o \emph {amorfismo humano} como ponto de fuga sem saída}{190}
-\contentsline {section}{O \emph {homem sem qualidades} e o entrecruzamemento rumo ao futuro}{215}
-\contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont \textsc {\MakeTextLowercase {FORMA-SUJEITO BURGUESA NO BRASIL:\\ \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {ENTRE \emph {NATUREZA} E \emph {CULTURA}}}}}{245}
-\contentsline {section}{A dinâmica da história brasileira e~os~germes~mercantis}{262}
-\contentsline {section}{O caráter orgânico e inorgânico da vida social e subjetiva burguesas no Brasil}{274}
-\contentsline {section}{A economia interna: o~lado~obscuro~da~\emph {Economia}}{281}
-\contentsline {section}{O simbólico"-religioso brasileiro: uma~tradição~colonial}{299}
-\contentsline {section}{À luz, o tímido germe moderno}{311}
-\contentsline {section}{Fundamentos para o nascimento de~um~espírito~burguês}{325}
-\contentsline {section}{Espírito nacional e antropofagia:\\ uma síntese \emph {indígeno"-burguesa}}{331}
-\contentsline {section}{\emph {Macunaíma} e a brasilidade burguesa~de~limbo}{345}
-\contentsline {section}{Entre Ulisses e Leonardo ou a dialética da forma"-sujeito burguesa malandra \vspace \medskipamount }{365}
-\contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont \textsc {\MakeTextLowercase {O HOMEM SEM QUALIDADES\\ À ESPERA DE GODOT}}}{375}
-\contentsline {section}{O fetichismo da mercadoria em Marx e seus\\desenvolvimentos}{377}
-\contentsline {section}{Forma-sujeito burguesa e~segunda~natureza}{398}
-\contentsline {section}{O valor-signo como usura do simbólico}{410}
-\contentsline {section}{O tempo tornado abstrato cobra~sua~conta?}{414}
-\contentsline {section}{Beckett e a estética da vida mercantil~desenvolvida}{426}
-\contentsline {section}{No \emph {fim de partida}, esperamos \emph {Godot} em \emph {dias felizes}? \vspace \bigskipamount }{438}
-\contentsline {chapter}{Reflexões finais}{475}
-\contentsline {chapter}{Posfácio, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\emph {por Marildo Menegat}}}{483}
-\contentsline {chapter}{Referências bibliográficas}{493}
-\contentsline {chapter}{Índice onomástico}{511}
+\contentsline {chapter}{Prefácio, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\emph {por Anselm Jappe}}}{9}
+\contentsline {chapter}{Introdução \vspace \bigskipamount }{21}
+\contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont \textsc {\MakeTextLowercase {MOLIÈRE E \emph {O BURGUÊS FIDALGO}:\\ \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {ENTRECRUZAMENTO ENTRE FIDALGUIA E BURGUESIA}}}}{37}
+\contentsline {section}{O ``renascimento'' filosófico e científico intelectual na idade média: tensionamentos}{43}
+\contentsline {section}{Mudança no sentido social e subjetivo do tempo: uma revolução rumo à modernidade}{57}
+\contentsline {subsection}{Tempo abstrato e tempo concreto}{59}
+\contentsline {section}{Sentido do tempo rumo à modernidade}{70}
+\contentsline {section}{O impulso para a marcha rumo~à~modernidade}{74}
+\contentsline {section}{O Burguês fidalgo, O avaro, Preciosas ridículas: tensionamentos}{90}
+\contentsline {section}{O burguês fidalgo: \emph {ridículo}}{97}
+\contentsline {section}{Preciosas ridículas: \emph {ridículas}}{113}
+\contentsline {section}{Outros tensionamentos em \emph {O avaro}: também \emph {ridículo} \vspace \medskipamount }{119}
+\contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont \textsc {\MakeTextLowercase {O HOMEM SEM QUALIDADES:\\ \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {DO AMORFISMO HUMANO AO CARÁTER \emph {BLASÉ}}}}}{127}
+\contentsline {section}{Razão moderna e forma"-sujeito moderna}{139}
+\contentsline {section}{O fetichismo da mercadoria como fundamento\\ moderno}{147}
+\contentsline {section}{O \emph {indivíduo} com a máscara de caráter do~sujeito~burguês~--~o~\emph {Indivíduo}}{159}
+\contentsline {section}{O \emph {homem sem qualidades} e o \emph {amorfismo humano} como ponto de fuga sem saída}{184}
+\contentsline {section}{O \emph {homem sem qualidades} e o entrecruzamemento rumo ao futuro}{209}
+\contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont \textsc {\MakeTextLowercase {FORMA-SUJEITO BURGUESA NO BRASIL:\\ \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {ENTRE \emph {NATUREZA} E \emph {CULTURA}}}}}{239}
+\contentsline {section}{A dinâmica da história brasileira e~os~germes~mercantis}{256}
+\contentsline {section}{O caráter orgânico e inorgânico da vida social e subjetiva burguesas no Brasil}{268}
+\contentsline {section}{A economia interna: o~lado~obscuro~da~\emph {Economia}}{274}
+\contentsline {section}{O simbólico"-religioso brasileiro: uma~tradição~colonial}{293}
+\contentsline {section}{À luz, o tímido germe moderno}{304}
+\contentsline {section}{Fundamentos para o nascimento de~um~espírito~burguês}{318}
+\contentsline {section}{Espírito nacional e antropofagia:\\ uma síntese \emph {indígeno"-burguesa}}{324}
+\contentsline {section}{\emph {Macunaíma} e a brasilidade burguesa~de~limbo}{337}
+\contentsline {section}{Entre Ulisses e Leonardo ou a dialética da forma"-sujeito burguesa malandra \vspace \medskipamount }{358}
+\contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont \textsc {\MakeTextLowercase {O HOMEM SEM QUALIDADES\\ À ESPERA DE GODOT}}}{367}
+\contentsline {section}{O fetichismo da mercadoria em Marx e seus\\desenvolvimentos}{369}
+\contentsline {section}{Forma-sujeito burguesa e~segunda~natureza}{390}
+\contentsline {section}{O valor-signo como usura do simbólico}{401}
+\contentsline {section}{O tempo tornado abstrato cobra~sua~conta?}{406}
+\contentsline {section}{Beckett e a estética da vida mercantil~desenvolvida}{417}
+\contentsline {section}{No \emph {fim de partida}, esperamos \emph {Godot} em \emph {dias felizes}? \vspace \bigskipamount }{429}
+\contentsline {chapter}{Reflexões finais}{465}
+\contentsline {chapter}{Posfácio, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\emph {por Marildo Menegat}}}{473}
+\contentsline {chapter}{Referências bibliográficas}{483}
+\contentsline {chapter}{Índice onomástico}{501}
 \contentsfinish 
