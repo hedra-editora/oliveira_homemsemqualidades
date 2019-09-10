@@ -15,7 +15,7 @@
 \contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont \textsc {\MakeTextLowercase {O HOMEM SEM QUALIDADES:\\ \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {DO AMORFISMO HUMANO AO CARÁTER \emph {BLASÉ}}}}}{127}
 \contentsline {section}{Razão moderna e forma"-sujeito moderna}{139}
 \contentsline {section}{O fetichismo da mercadoria como fundamento\\ moderno}{147}
-\contentsline {section}{O \emph {indivíduo} com a máscara de caráter do~sujeito~burguês~--~o~\emph {Indivíduo}}{159}
+\contentsline {section}{O \emph {indivíduo} com a máscara de caráter do sujeito burguês -- o \emph {Indivíduo}}{159}
 \contentsline {section}{O \emph {homem sem qualidades} e o \emph {amorfismo humano} como ponto de fuga sem saída}{184}
 \contentsline {section}{O \emph {homem sem qualidades} e o entrecruzamemento rumo ao futuro}{209}
 \contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont \textsc {\MakeTextLowercase {FORMA-SUJEITO BURGUESA NO BRASIL:\\ \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {ENTRE \emph {NATUREZA} E \emph {CULTURA}}}}}{239}
