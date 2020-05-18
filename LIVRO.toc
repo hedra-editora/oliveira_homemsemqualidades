@@ -1,4 +1,4 @@
-\select@language {brazilian}
+\babel@toc {brazilian}{}
 \hyphenpenalty =10000\thispagestyle {empty}
 \contentsline {chapter}{Prefácio, \relax \fontsize {10}{12}\selectfont \abovedisplayskip 10\p@ plus2\p@ minus5\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6\p@ plus3\p@ minus3\p@ \def \leftmargin \leftmargini \parsep \parsepi \topsep \topsepi \itemsep \itemsepi {\leftmargin \leftmargini \topsep 6\p@ plus2\p@ minus2\p@ \parsep 3\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip {\emph {por Anselm Jappe}}}{9}
 \contentsline {chapter}{Introdução \vspace \bigskipamount }{21}
@@ -25,7 +25,7 @@
 \contentsline {section}{O simbólico"-religioso brasileiro: uma~tradição~colonial}{293}
 \contentsline {section}{À luz, o tímido germe moderno}{304}
 \contentsline {section}{Fundamentos para o nascimento de~um~espírito~burguês}{318}
-\contentsline {section}{Espírito nacional e antropofagia:\\ uma síntese \emph {indígeno"-burguesa}}{324}
+\contentsline {section}{Espírito nacional e antropofagia:\\ uma síntese \emph {indígeno"-burguesa}}{323}
 \contentsline {section}{\emph {Macunaíma} e a brasilidade burguesa~de~limbo}{337}
 \contentsline {section}{Entre Ulisses e Leonardo ou a dialética da forma"-sujeito burguesa malandra \vspace \medskipamount }{358}
 \contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont \textsc {\MakeTextLowercase {O HOMEM SEM QUALIDADES\\ À ESPERA DE GODOT}}}{367}
