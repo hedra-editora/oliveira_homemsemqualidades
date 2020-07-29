@@ -3,7 +3,7 @@
   \item Aberlardo, 47
   \item Adorno, Theodor, 12, 13, 44, 139--144, 146, 155, 159, 161, 
 		175, 176, 178--180, 182, 183, 215, 216, 226, 362, 371, 
-		373, 381--383, 413, 424, 438, 439, 441, 442, 454, 456, 
+		373, 381--383, 413, 423, 438, 439, 441, 442, 453, 456, 
 		458--461, 463, 464, 481
   \item Alencar, José de, 315, 316, 326, 327, 339, 340
   \item Algranti, Leila Mezan, 283, 284, 288
@@ -29,13 +29,13 @@
   \item Bauman, Zygmunt, 454
   \item Baxter, Richard, 166
   \item Beckett, Samuel, 17, 18, 21, 24, 31, 32, 221, 237, 238, 
-		367--369, 408, 417--419, 423, 426--432, 435--443, 445, 
-		450--456, 458--461, 463, 464, 470, 474, 481
+		367--369, 407, 417, 418, 423, 426--432, 435--443, 445, 
+		450--456, 458--464, 470, 474, 481
   \item Benjamin, Walter, 12, 16, 21, 22, 29, 36, 44, 98, 149, 155, 232, 
 		385, 412, 429, 436, 455, 456
   \item Bosi, Alfredo, 333, 337--340, 354
   \item Bouveresse, Jacques, 184, 193, 195, 204, 207, 218, 220
-  \item Brabant, Siger de, 51
+  \item Brabant, Siger de, 50
   \item Braudel, Fernand, 77, 86, 137
   \item Bruckner, Pascal, 230
   \item Bruyelle, Roland, 102, 106, 114, 124
@@ -43,13 +43,13 @@
 
   \indexspace
 
-  \item Campos, Haroldo de, 333, 336
+  \item Campos, Haroldo de, 332, 333, 335
   \item Candido, Antonio, 16, 274, 304, 305, 309--316, 324, 329, 
 		358--363, 366
   \item Canova, Marie-Claude, 101, 107, 113, 115
   \item Castelo, Aderaldo, 329
   \item Charles \versal{V}, 59
-  \item Chartres, Thierry de, 48, 50
+  \item Chartres, Thierry de, 48--50
   \item Cometti, Jean-Pierre, 185, 187, 193, 194, 197, 198, 201, 233
   \item Crosby, Alfred, 38, 61--63, 77, 372
   \item Cross, Gary, 385
@@ -58,7 +58,7 @@
   \indexspace
 
   \item Dawlianidse, David, 185, 204, 205
-  \item Debord, Guy, 226, 371, 375, 382, 406, 413, 433, 440, 456, 470
+  \item Debord, Guy, 226, 371, 375, 382, 406, 412, 433, 440, 456, 470
   \item Defaux, Gérard, 104
   \item Deleuze, Gilles, 174
   \item Descartes, René, 91
@@ -72,7 +72,7 @@
   \indexspace
 
   \item Eckermann, Johann Peter, 120
-  \item Elias, Norbert, 29, 93, 96, 180--182
+  \item Elias, Norbert, 29, 93, 95, 180--182
   \item Eliot, Thomas Stearns, 430, 438, 441
   \item Engels, Friedrich, 11, 12
   \item Esslin, Martin, 445, 459
@@ -95,7 +95,7 @@
   \item Goldmann, Lucien, 12, 164, 421--423, 425, 428
   \item Goto, Roberto, 363, 365
   \item Gourevicht, Aron, 41, 113, 126
-  \item Gracián, Baltasar, 94, 95, 97, 102, 202
+  \item Gracián, Baltasar, 94, 95, 97, 101, 202
   \item Grossetête, 51
   \item Guattari, Félix, 174
   \item Guicharnaud, Jacques, 101
@@ -126,9 +126,9 @@
 
   \item Jacoby, Russell, 384, 385
   \item Jameson, Fredric, 12, 417, 418, 448
-  \item Jappe, Anselm, 28, 44, 45, 63, 64, 86, 89, 145--147, 372, 386
+  \item Jappe, Anselm, 28, 44, 45, 63, 64, 86, 88, 145--147, 372, 385
   \item Júnior, Caio Prado, 239, 243, 245, 251, 254, 256--258, 
-		262--264, 267--273, 275, 277, 279--282, 284, 285, 287, 
+		262--265, 267--273, 275, 277, 279--282, 284, 285, 287, 
 		289, 291, 292, 294, 296--298, 304, 322
 
   \indexspace
@@ -137,8 +137,8 @@
   \item Keegan, John, 78, 79, 84
   \item Kehl, Maria Rita, 371, 387, 388, 415
   \item Kraus, Karl, 194, 210, 217, 238, 431
-  \item Kurz, Robert, 10, 11, 25, 28, 76, 79, 85, 86, 147, 148, 153, 
-		171, 172, 372, 374, 391
+  \item Kurz, Robert, 10, 11, 25, 28, 76, 79, 85, 86, 148, 153, 
+		171, 172, 372, 374, 390
 
   \indexspace
 
@@ -148,7 +148,7 @@
   \item Le Rider, Jacques, 228, 229
   \item Lebrun, Jean-Pierre, 378
   \item Lessa, Bia, 202
-  \item Lipovetsky, Gilles, 34, 367, 415, 469
+  \item Lipovetsky, Gilles, 34, 367, 414, 415, 469
   \item Littré, Émille, 112
   \item Lukács, György, 12, 13, 419--421, 423, 424, 474, 479, 480
 
@@ -159,8 +159,7 @@
   \item Magris, Claudio, 204
   \item Mandeville, Bernard, 379, 388
   \item Mandrou, Robert, 98, 102
-  \item Marcuse, Herbert, 12, 138, 144, 145, 153, 385, 389, 416, 417, 
-		469
+  \item Marcuse, Herbert, 12, 138, 144, 145, 153, 385, 389, 416, 469
   \item Marfuz, Luiz, 445
   \item Marx, Karl, 10--13, 26--28, 31, 43, 60, 79, 144, 146, 147, 149, 
 		154--157, 162, 167, 178, 232, 330, 369, 370, 372, 391, 
@@ -168,11 +167,11 @@
   \item Melman, Charles, 378
   \item Menegat, Marildo, 29, 30, 96, 140, 144, 164, 179, 180, 249, 371, 
 		438, 473
-  \item Michéa, Jean-Claude, 402, 403
-  \item Michelet, Jules, 99, 100, 102, 105, 149
+  \item Michéa, Jean-Claude, 402
+  \item Michelet, Jules, 98--100, 102, 105, 149
   \item Mirandola, Pico della, 90, 91, 97
-  \item Molière, Jean Baptiste, 15, 24, 29, 32, 37, 40, 93, 97--103, 
-		105--108, 112--116, 119, 120, 124, 125, 133, 137, 229, 
+  \item Molière, Jean Baptiste, 15, 24, 29, 32, 40, 93, 97--103, 
+		105--107, 112--115, 119, 120, 124, 125, 133, 137, 229, 
 		458, 464, 474, 476, 478
   \item Mott, Luiz, 296, 299, 301
   \item Musil, Robert, 15, 17, 24, 30, 32, 127, 135, 184--211, 213, 
@@ -188,9 +187,9 @@
   \indexspace
 
   \item Parker, Geoffrey, 78, 82, 84, 85
-  \item Postone, Moishe, 10, 60, 62--69, 260, 409
+  \item Postone, Moishe, 10, 59--69, 260, 409
   \item Prado, Antonio Arnoni, 327
-  \item Pronko, Léonard, 445, 449
+  \item Pronko, Léonard, 445, 448, 449
 
   \indexspace
 
@@ -215,8 +214,8 @@
   \indexspace
 
   \item Sartre, Jean-Paul, 12, 34, 192, 432
-  \item Scholz, Roswitha, 162, 342, 477, 478
-  \item Schwarz, Roberto, 243, 250, 252, 253, 255, 256, 271, 278, 311, 
+  \item Scholz, Roswitha, 162, 341, 477, 478
+  \item Schwarz, Roberto, 243, 250, 253, 255, 256, 271, 278, 311, 
 		326--328, 334, 361
   \item Severiano, Maria de Fátima, 368, 373, 375, 405, 411
   \item Simmel, Georg, 14, 39, 41, 236, 433
@@ -224,8 +223,8 @@
   \item Soares, Jorge Coelho, 225, 469
   \item Sokel, Walter Herbert, 192
   \item Sombart, Werner, 85, 86
-  \item Song, Su, 59
-  \item Souza, Gilda de Mello e, 341, 346, 349, 353, 354
+  \item Song, Su, 58
+  \item Souza, Gilda de Mello e, 340, 346, 349, 353, 354
 
   \indexspace
 

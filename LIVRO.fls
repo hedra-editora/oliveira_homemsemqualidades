@@ -1,4 +1,4 @@
-PWD /home/edlab/HEDRA/LATEX/oliveira_homemsemqualidades
+PWD /home/edlab/HEDRA/LATEX/OLD/oliveira_homemsemqualidades
 INPUT /var/lib/texmf/web2c/luatex/lualatex.fmt
 INPUT ./LIVRO.tex
 OUTPUT LIVRO.log
