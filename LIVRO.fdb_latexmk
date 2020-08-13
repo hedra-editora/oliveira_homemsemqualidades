@@ -1,10 +1,10 @@
 # Fdb version 3
-["makeindex LIVRO.idx"] 1596038047 "LIVRO.idx" "LIVRO.ind" "LIVRO" 1596038137
-  "LIVRO.idx" 1596038136 40876 e44f7a8e959871785756a516f8cf15aa ""
+["makeindex LIVRO.idx"] 1596038047 "LIVRO.idx" "LIVRO.ind" "LIVRO" 1597342910
+  "LIVRO.idx" 1597342909 40876 e44f7a8e959871785756a516f8cf15aa ""
   (generated)
   "LIVRO.ind"
   "LIVRO.ilg"
-["pdflatex"] 1596038124 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1596038137
+["pdflatex"] 1597342897 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1597342910
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-r.luc" 1568389827 330559 8015d189746fd34549af425155e1e6e6 ""
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rb.luc" 1568389827 287959 d5887f4d1b939889089730c9a54a54da ""
   "/home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rbi.luc" 1568389827 219520 6fa7a4848f8db3261ce34a95f9e81fd5 ""
@@ -241,15 +241,15 @@
   "/var/lib/texmf/tex/generic/config/language.dat" 1568390393 5068 f7f3bc7f417c156a3f8ad000ec95e50f ""
   "/var/lib/texmf/web2c/luatex/lualatex.fmt" 1568390407 1349090 037f174be86cf28c8ddf3a93c1b55c78 ""
   "INDEX.tex" 1589825030 194 c7c6b2bb28556a679969cab8041f1e12 ""
-  "INPUTS.aux" 1596038136 7435 6d4d9c4c9c4055880a23fafaaba96b95 ""
+  "INPUTS.aux" 1597342909 7429 fa18c5d5ff438409a7ed2ef60f6db109 ""
   "INPUTS.tex" 1589825030 63 feb9fe1c83b3cef4b1c67de4c16ee7c2 ""
-  "LIVRO.aux" 1596038137 398 bedb042ba1057a2b1b2407c8a612587e ""
-  "LIVRO.ind" 1596038136 7755 810a667390229653e1af52ee5e9c732e "makeindex LIVRO.idx"
+  "LIVRO.aux" 1597342910 398 bedb042ba1057a2b1b2407c8a612587e ""
+  "LIVRO.ind" 1597342909 7755 810a667390229653e1af52ee5e9c732e "makeindex LIVRO.idx"
   "LIVRO.tex" 1596038115 3442 6a39ed2ff98c99da53ccec4dfdb21705 ""
-  "LIVRO.toc" 1596038137 4856 878970d220bcf37e923f75b6fa517ee8 ""
-  "ORIGINAIS.tex" 1596038122 929760 344b5fca666c585fd5a94adc050807c0 ""
+  "LIVRO.toc" 1597342910 4850 dce5448d6e5517baba918f76091486ad ""
+  "ORIGINAIS.tex" 1597342894 929228 244638a0eea72897296561539bcc55b8 ""
   "PRETAS.tex" 1589825030 1092 869896b3defc7c2243cba1addb9cb8a6 ""
-  "PUBLICIDADE.aux" 1596038137 1780 1041551eb1249789f279d1fc60499469 ""
+  "PUBLICIDADE.aux" 1597342910 1780 1041551eb1249789f279d1fc60499469 ""
   "fichatecnica.sty" 1596034026 2402 f18bb05a7c729082b2b2cf99cb7d5190 ""
   "fronthedra.tex" 1589825030 3884 ec6530ed2b948467b570684793758503 ""
   "gitrevisioninfo.sty" 1589825030 35 69d1633cf3301b6f0217fcc853dfc403 ""
@@ -257,10 +257,10 @@
   "tipografia.sty" 1596036387 10118 fa6cf4ad94f891d5c16255ef6fb0c6fe ""
   "toc.sty" 1589825030 3584 8a6cd48c4fd761cc0f8988b9f7ec2521 ""
   (generated)
-  "LIVRO.idx"
-  "INPUTS.aux"
+  "LIVRO.toc"
   "PUBLICIDADE.aux"
   "LIVRO.log"
   "LIVRO.aux"
-  "LIVRO.toc"
   "LIVRO.pdf"
+  "LIVRO.idx"
+  "INPUTS.aux"
